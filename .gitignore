@@ -1,0 +1,14 @@
+.py[cod]
+__pycache__/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.pdm-python
+.idea/
+datasets/
+static/assets/
+runs/
+yolo11n*
+node_modules/
+.env
+*.pem
